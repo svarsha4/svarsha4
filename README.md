@@ -6,10 +6,7 @@ I am a senior at Drake University pursuing a triple major in Computer Science, D
 ## Skills 💻
 Python / Java / R / SAS / MySQL / Visual Basic for Applications / Haskell / C / C# / HTML / CSS / JavaScript / Tableau / Google Data Studio / Figma / Flask / Scikit-learn / Git
 
-## References
-
-
 ## Let's Connect! 😄
-#### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saul-v-117a28105/)
+#### [<img src='https://tse1.mm.bing.net/th?id=OIP.bhVPgAcuDxNBBew1WZ10pgHaHa&pid=Api&P=0&h=220' alt='linkedin' height='40'>](https://www.linkedin.com/in/saul-v-117a28105/)
 #### 📧 sbvarshavsky@gmail.com
 #### 📞312-883-4464
