@@ -8,4 +8,4 @@ Python / Java / R / SAS / MySQL / Visual Basic for Applications / Haskell / C / 
 
 ## Let's Connect! 😄
 #### [<img src='https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png' alt='linkedin' height='100'>](https://www.linkedin.com/in/saul-v-117a28105/)
-#### 📧 sbvarshavsky@gmail.com  📞312-883-4464
+#### 📧 sbvarshavsky@gmail.com     📞312-883-4464
