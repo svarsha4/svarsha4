@@ -7,8 +7,6 @@ I envision a career in the field of data analytics, with interests particularly 
 
 Even though coming straight out of college I may not be as tech savvy as an experienced professional, I know that my insatiable curiosity and passion for finding creative solutions to problems will drive innovation at any company. In fact, this passion is a key reason why I want to pursue a career in the data analytics and tech sphere.
 
-Gallup StrengthsFinder Strengths: 1. Input | 2. Learner | 3. Responsibility | 4. Restorative | 5. Intellection
-
 ## Skills 💻
 Python / Java / R / SAS / MySQL / Visual Basic for Applications / Haskell / C / C# / HTML / CSS / JavaScript / Tableau / PowerBI / Google Data Studio / Figma / Flask / Scikit-learn / Git
 
