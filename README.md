@@ -10,7 +10,7 @@ Even though coming straight out of college I may not be as tech savvy as an expe
 Gallup StrengthsFinder Strengths: 1. Input | 2. Learner | 3. Responsibility | 4. Restorative | 5. Intellection
 
 ## Skills 💻
-Python / Java / R / SAS / MySQL / Visual Basic for Applications / Haskell / C / C# / HTML / CSS / JavaScript / Tableau / Google Data Studio / Figma / Flask / Scikit-learn / Git
+Python / Java / R / SAS / MySQL / Visual Basic for Applications / Haskell / C / C# / HTML / CSS / JavaScript / Tableau / PowerBI / Google Data Studio / Figma / Flask / Scikit-learn / Git
 
 ## Let's Connect! 😄
 #### [<img src='https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png' alt='linkedin' height='100'>](https://www.linkedin.com/in/saul-v-117a28105/)
