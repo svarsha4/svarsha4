@@ -1,5 +1,4 @@
 # Hi there, I'm Saul! 👋
-![Hi there, I'm Saul!](https://tse3.mm.bing.net/th?id=OIP.kgXgbsD9kZhZOrW30usSUgHaHa&pid=Api&P=0&h=220)
 
 I am a recent Magna Cum Laude graduate of Drake University with a B.S. in Computer Science, Data Analytics, and Artificial Intelligence. Throughout my time in college, I have gained valuable experience through 3 internships and 3 research projects, even prior to the start of my first year in college. Additionally, I have trained and competed in the NCNA Regional Programming Contest for all 4 years in college and worked on several personal projects, which significantly improved my ability to address challenges in a creative manner.
 
