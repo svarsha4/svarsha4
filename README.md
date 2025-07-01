@@ -2,7 +2,7 @@
 
 I'm a recent Magna Cum Laude graduate of Drake University with a B.S. in Computer Science, Data Analytics, and Artificial Intelligence. In my most recent role as an AI Software Engineer, I got the opportunity to learn and grow as a developer by building an internal chat application with AI agents — leveraging LLMs to automate business workflows. 
 
-Over the past few years, I've also had the opportunities to intern at companies from different industries, contribute to impactful research with the National Science Foundation, and compete in the NCNA Regional Programming Contest throughout all four years of undergrad.
+Over the past few years, I've also had opportunities to intern at companies from different industries, contribute to impactful research with the National Science Foundation, and compete in the NCNA Regional Programming Contest throughout all four years of undergrad.
 
 Whether building dashboards, designing user-centric applications, or working with machine learning models, I love diving into unfamiliar territory and turning complex problems into tangible solutions. My curiosity and my drive towards finding solutions to all kinds of problems is what keeps me excited to pursue a career in the AI and tech space.
 
