@@ -9,6 +9,6 @@ Whether building dashboards, designing user-centric applications, or working wit
 Feel free to check out my projects and get in touch!
 
 ## Let's Connect! 😄
-#### [<img src='https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png' alt='linkedin' height='100'>](https://www.linkedin.com/in/saul-v-117a28105/)
+#### [<img src='https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png' alt='linkedin' height='100'>](https://www.linkedin.com/in/saulvarshavsky)
 #### 📧 sbvarshavsky@gmail.com
 #### 📞312-883-4464
